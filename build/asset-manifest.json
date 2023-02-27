@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec73389f.css",
+    "main.js": "/static/js/main.692381f6.js",
+    "static/media/cleaning.mp4": "/static/media/cleaning.0f6ec74cb50c232b03b0.mp4",
+    "static/media/grassclean.jpeg": "/static/media/grassclean.964a262010e75bb8cf09.jpeg",
+    "static/media/ket2.jpeg": "/static/media/ket2.899481d49c8b8ac4c0a1.jpeg",
+    "static/media/grass.jpeg": "/static/media/grass.895e10f64edf80aa7a5d.jpeg",
+    "static/media/img1.jpeg": "/static/media/img1.888f7224a80c6750af8d.jpeg",
+    "static/media/ket1.jpeg": "/static/media/ket1.476f7e8b87ced5c41ca4.jpeg",
+    "static/media/img2.jpeg": "/static/media/img2.2e64433f85d6fc69cfdc.jpeg",
+    "static/media/facial.png": "/static/media/facial.dff3a22d8b96dbac96ba.png",
+    "static/media/logohover.png": "/static/media/logohover.648372c0905b58cf28a5.png",
+    "static/media/happyface.png": "/static/media/happyface.61a3dcba722a0e629346.png",
+    "static/media/woman.png": "/static/media/woman.0daff805548fbd4460f0.png",
+    "static/media/model.png": "/static/media/model.8ea4ccec0b81e4b1eebb.png",
+    "static/media/face.png": "/static/media/face.e49990419827546bd0d9.png",
+    "static/media/house.png": "/static/media/house.01d4306094ded873162e.png",
+    "static/media/chat.png": "/static/media/chat.9f37a6693789759c9e93.png",
+    "static/media/propercleanbold.png": "/static/media/propercleanbold.0b4ccd7ca868dc4f7f9c.png",
+    "index.html": "/index.html",
+    "main.ec73389f.css.map": "/static/css/main.ec73389f.css.map",
+    "main.692381f6.js.map": "/static/js/main.692381f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec73389f.css",
+    "static/js/main.692381f6.js"
+  ]
+}
